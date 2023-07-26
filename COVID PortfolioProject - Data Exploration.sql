@@ -1,4 +1,3 @@
--- This project to learn Data Exploration
 -- 1. General View of Countries Counts
 SELECT *
 FROM PortfolioProject..CovidDeaths
